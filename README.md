@@ -8,3 +8,6 @@ A simple calculator that is capable of doing basic addition, subtraction, multip
 1. Clone the repo
 2. Open in IDE/Text Editor
 3. Open HTML file in your browser
+
+# References:
+- https://www.w3schools.com/jsref/jsref_reference.asp
