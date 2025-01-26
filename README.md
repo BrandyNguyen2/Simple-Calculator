@@ -9,5 +9,8 @@ A simple calculator that is capable of doing basic addition, subtraction, multip
 2. Open in IDE/Text Editor
 3. Open HTML file in your browser
 
+# Images 
+add images of calc and examples of calculations
+
 # References:
 - https://www.w3schools.com/jsref/jsref_reference.asp
