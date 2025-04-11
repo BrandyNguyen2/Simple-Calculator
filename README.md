@@ -9,9 +9,9 @@ A simple calculator that is capable of doing basic addition, subtraction, multip
 3. Open HTML file in your browser
 ---
 # Images 
-![calc](calc.JPG)
-![ex1](example1.JPG)
-![ex2](example2.JPG)
+![calc](images/calc.JPG)
+![ex1](images/example1.JPG)
+![ex2](images/example2.JPG)
 ---
 # References:
 - https://www.w3schools.com/jsref/jsref_reference.asp
